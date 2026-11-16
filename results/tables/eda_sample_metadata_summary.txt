@@ -1,0 +1,176 @@
+GSE68801 SAMPLE METADATA INSPECTION
+
+Expression dimensions:
+[1] 54675   122
+
+Metadata dimensions:
+[1] 122  43
+
+Sample titles:
+  [1] "AAB-HT002-AAP-L"      "AAB-HT003-AAP-L"      "AAB-HT006-AAP-L"     
+  [4] "AAB-HT002-AAP-NL"     "AAB-HT003-AAP-NL"     "AAB-HT006-AAP-NL"    
+  [7] "AAB-C007-AU-L"        "AAB-HT001-AT-L"       "AAB-N-C021-Normal-NC"
+ [10] "AAB-N-C022-Normal-NC" "AAB-C024-Normal-NC"   "AAB-N-C025-Normal-NC"
+ [13] "AAB-HT010-AAP.T-L"    "AAB-HT011-AAP-L"      "AAB-HT012-AAP-L"     
+ [16] "AAB-HT010-AAP.T-NL"   "AAB-HT011-AAP-NL"     "AAB-HT012-AAP-NL"    
+ [19] "AAB-C013-AU-L"        "AAB-C033-AU-L"        "AAB-C037-AT-L"       
+ [22] "AAB-C043-AU-L"        "AAB-HT041-AU-L"       "AAB-N-C026-Normal-NC"
+ [25] "AAB-N-C027-Normal-NC" "AAB-N-C028-Normal-NC" "AAB-N-C029-Normal-NC"
+ [28] "AAB-C014-AAP-L"       "AAB-HT017-AAP.T-L"    "AAB-HT018-AAP-L"     
+ [31] "AAB-C014-AAP-NL"      "AAB-HT017-AAP.T-NL"   "AAB-HT018-AAP-NL"    
+ [34] "AAB-C047-AT-L"        "AAB-M044-AU-L"        "AAB-N-C030-Normal-NC"
+ [37] "AAB-N-C032-Normal-NC" "AAB-N-C034-Normal-NC" "AAB-N-C035-Normal-NC"
+ [40] "AAB-C020-AAP.T-L"     "AAB-C038-AAP-L"       "AABM046-AAP-L"       
+ [43] "AAB-C020-AAP.T-NL"    "AABM046-AAP-NL"       "AAB-C048-AT-L"       
+ [46] "AAB-HT050-AT-L"       "AAB-M-060-AU-L"       "AAB-M-061-AU-L"      
+ [49] "AAB-N-C036-Normal-NC" "AAB-N-C039-Normal-NC" "AAB-N-C042-Normal-NC"
+ [52] "AAB-N-C045-Normal-NC" "AAB-C052-AAP-L"       "AAB-C076-AAP-L"      
+ [55] "AAB-M056-AAP-L"       "AAB-M058-AAP-L"       "AAB-C052-AAP-NL"     
+ [58] "AAB-C076-AAP-NL"      "AAB-M056-AAP-NL"      "AAB-M058-AAP-NL"     
+ [61] "AAB-HT077-AU-L"       "AAB-HT082-AU-L"       "AAB-M080-AU-L"       
+ [64] "AAB-N-C054-Normal-NC" "AAB-N-C055-Normal-NC" "AAB-N-C059-Normal-NC"
+ [67] "AAB-N-C062-Normal-NC" "AAB-C083-AAP-L"       "AAB-HT009-AAP-L"     
+ [70] "AAB-HT079-AAP-L"      "AAB-SF086-AAP-L"      "AAB-C083-AAP-NL"     
+ [73] "AAB-HT079-AAP-NL"     "AAB-SF086-AAP-NL"     "AAB-C016-AU-L"       
+ [76] "AAB-HT008-AU-L"       "AAB-HT091-AT-L"       "AAB-SF087-AU-L"      
+ [79] "AAB-N-C063-Normal-NC" "AAB-N-C064-Normal-NC" "AAB-N-C065-Normal-NC"
+ [82] "AAB-HT103-AAP-L"      "AAB-SF078-AAP.T-L"    "AAB-SF099-AAP-L"     
+ [85] "AAB-HT103-AAP-NL"     "AAB-SF078-AAP.T-NL"   "AAB-SF099-AAP-NL"    
+ [88] "AAB-HT096-AT-L"       "AAB-M094-AU-L"        "AAB-SF089-AU-L"      
+ [91] "AAB-SF090-AU-L"       "AAB-SF100-AU-L"       "AAB-N-C069-Normal-NC"
+ [94] "AAB-N-C070-Normal-NC" "AAB-N-C071-Normal-NC" "AAB-N-C072-Normal-NC"
+ [97] "AAB-N-C074-Normal-NC" "AAB-N-C075-Normal-NC" "AAB-N-C085-Normal-NC"
+[100] "AAB-C092-Normal-NC"   "AAB-M112-AAP-L"       "AAB-SF104-AAP-L"     
+[103] "AAB-SF114-AAP-L"      "AAB-SF115-AAP.T-L"    "AAB-M112-AAP-NL"     
+[106] "AAB-SF104-AAP-NL"     "AAB-SF114-AAP-NL"     "AAB-SF115-AAP.T-NL"  
+[109] "AAB-C109-AU-L"        "AAB-C111-AU-L"        "AAB-HT101-AU-L"      
+[112] "AAB-M110-AT-L"        "AAB-SF106-AU-L"       "AAB-SF113-AU-L"      
+[115] "AAB-N-C098-Normal-NC" "AAB-N-C105-Normal-NC" "AAB-N-C107-Normal-NC"
+[118] "AAB-N-C108-Normal-NC" "AAB-HT095-AAP.T-L"    "AAB-HT095-AAP.T-NL"  
+[121] "AAB-HT097-AT-L"       "AAB-C093-Normal-NC"  
+
+Sample characteristics:
+
+ characteristics_ch1 
+
+  patient id: AAB-C007   patient id: AAB-C013   patient id: AAB-C014 
+                     1                      1                      2 
+  patient id: AAB-C016   patient id: AAB-C020   patient id: AAB-C024 
+                     1                      2                      1 
+  patient id: AAB-C033   patient id: AAB-C037   patient id: AAB-C038 
+                     1                      1                      1 
+  patient id: AAB-C043   patient id: AAB-C047   patient id: AAB-C048 
+                     1                      1                      1 
+  patient id: AAB-C052   patient id: AAB-C076   patient id: AAB-C083 
+                     2                      2                      2 
+  patient id: AAB-C092   patient id: AAB-C093   patient id: AAB-C109 
+                     1                      1                      1 
+  patient id: AAB-C111  patient id: AAB-HT001  patient id: AAB-HT002 
+                     1                      1                      2 
+ patient id: AAB-HT003  patient id: AAB-HT006  patient id: AAB-HT008 
+                     2                      2                      1 
+ patient id: AAB-HT009  patient id: AAB-HT010  patient id: AAB-HT011 
+                     1                      2                      2 
+ patient id: AAB-HT012  patient id: AAB-HT017  patient id: AAB-HT018 
+                     2                      2                      2 
+ patient id: AAB-HT041  patient id: AAB-HT050  patient id: AAB-HT077 
+                     1                      1                      1 
+ patient id: AAB-HT079  patient id: AAB-HT082  patient id: AAB-HT091 
+                     2                      1                      1 
+ patient id: AAB-HT095  patient id: AAB-HT096  patient id: AAB-HT097 
+                     2                      1                      1 
+ patient id: AAB-HT101  patient id: AAB-HT103  patient id: AAB-M-060 
+                     1                      2                      1 
+ patient id: AAB-M-061   patient id: AAB-M044   patient id: AAB-M056 
+                     1                      1                      2 
+  patient id: AAB-M058   patient id: AAB-M080   patient id: AAB-M094 
+                     2                      1                      1 
+  patient id: AAB-M110   patient id: AAB-M112 patient id: AAB-N-C021 
+                     1                      2                      1 
+patient id: AAB-N-C022 patient id: AAB-N-C025 patient id: AAB-N-C026 
+                     1                      1                      1 
+patient id: AAB-N-C027 patient id: AAB-N-C028 patient id: AAB-N-C029 
+                     1                      1                      1 
+patient id: AAB-N-C030 patient id: AAB-N-C032 patient id: AAB-N-C034 
+                     1                      1                      1 
+patient id: AAB-N-C035 patient id: AAB-N-C036 patient id: AAB-N-C039 
+                     1                      1                      1 
+patient id: AAB-N-C042 patient id: AAB-N-C045 patient id: AAB-N-C054 
+                     1                      1                      1 
+patient id: AAB-N-C055 patient id: AAB-N-C059 patient id: AAB-N-C062 
+                     1                      1                      1 
+patient id: AAB-N-C063 patient id: AAB-N-C064 patient id: AAB-N-C065 
+                     1                      1                      1 
+patient id: AAB-N-C069 patient id: AAB-N-C070 patient id: AAB-N-C071 
+                     1                      1                      1 
+patient id: AAB-N-C072 patient id: AAB-N-C074 patient id: AAB-N-C075 
+                     1                      1                      1 
+patient id: AAB-N-C085 patient id: AAB-N-C098 patient id: AAB-N-C105 
+                     1                      1                      1 
+patient id: AAB-N-C107 patient id: AAB-N-C108  patient id: AAB-SF078 
+                     1                      1                      2 
+ patient id: AAB-SF086  patient id: AAB-SF087  patient id: AAB-SF089 
+                     2                      1                      1 
+ patient id: AAB-SF090  patient id: AAB-SF099  patient id: AAB-SF100 
+                     1                      2                      1 
+ patient id: AAB-SF104  patient id: AAB-SF106  patient id: AAB-SF113 
+                     2                      1                      1 
+ patient id: AAB-SF114  patient id: AAB-SF115    patient id: AABM046 
+                     2                      2                      2 
+
+ characteristics_ch1.1 
+
+   disease status: AAP  disease status: AAP.T     disease status: AT 
+                    42                     12                      9 
+    disease status: AU disease status: Normal 
+                    23                     36 
+
+ characteristics_ch1.2 
+
+ skintype (l=lesional, nl=nonlesional, nc=normal control): L 
+                                                          60 
+skintype (l=lesional, nl=nonlesional, nc=normal control): NC 
+                                                          36 
+skintype (l=lesional, nl=nonlesional, nc=normal control): NL 
+                                                          26 
+
+ characteristics_ch1.3 
+
+gender: F gender: M 
+       82        40 
+
+ characteristics_ch1.4 
+
+age: 16 age: 18 age: 21 age: 22 age: 23 age: 24 age: 25 age: 26 age: 27 
+      2       1       1       1       4       1       1       9       2 
+age: 28 age: 29 age: 30 age: 31 age: 32 age: 33 age: 34 age: 35 age: 36 
+      4       6       3       2       7       4       3       1       5 
+age: 37 age: 38 age: 39 age: 40 age: 41 age: 42 age: 45 age: 46 age: 47 
+      4      13       1       4       2       1       1       4       3 
+age: 48 age: 49 age: 51 age: 52 age: 53 age: 54 age: 55 age: 57 age: 58 
+      2       1       2       1       2       2       3       1       3 
+age: 59 age: 60 age: 61 age: 62 age: 63 age: 65 age: 66 age: 67 
+      1       1       3       3       2       1       3       1 
+
+ characteristics_ch1.5 
+
+     registry site: Columbia       registry site: Houston 
+                          57                           33 
+    registry site: Minnesota registry site: San Francisco 
+                          14                           18 
+
+ characteristics_ch1.6 
+
+   microarray batch: c2013/04/10    microarray batch: c2013/05/17 
+                              12                               15 
+   microarray batch: c2013/05/29    microarray batch: c2013/06/04 
+                              12                               13 
+   microarray batch: c2013/08/28    microarray batch: c2013/11/06 
+                              15                               14 
+microarray batch: y2014/09/15_16 
+                              41 
+
+ characteristics_ch1.7 
+
+ dataset: Discovery Dataset dataset: Validation Dataset 
+                         81                          41 

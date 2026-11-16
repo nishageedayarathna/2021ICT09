@@ -5,5 +5,4 @@ data/raw/*.rds
 data/raw/*.RDS
 data/raw/*.gz
 data/processed/*.rds
-results/figures/
-results/tables/
+

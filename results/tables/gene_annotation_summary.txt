@@ -1,0 +1,6 @@
+GENE ANNOTATION SUMMARY
+========================
+Total probes: 54675
+Probes with gene symbols: 44647
+Significant probes: 2984
+Unique significant gene symbols: 2234
