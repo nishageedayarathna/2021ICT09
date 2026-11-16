@@ -1,0 +1,24 @@
+QUALITY CONTROL INTERPRETATION
+
+1. Missing Values
+No missing expression values were detected.
+
+2. Duplicate Probes
+No duplicated probe identifiers were detected.
+
+3. Expression Distribution
+The sample boxplot showed broadly similar
+expression distributions across samples.
+
+4. Sample-Level Quality
+Sample mean expression ranged from 4.918 to 5.017.
+Sample standard deviation ranged from 2.960 to 3.107.
+
+5. Metadata Alignment
+Expression matrix columns and metadata rows
+were correctly aligned.
+
+Conclusion:
+Initial quality control showed relatively
+consistent sample-level expression statistics.
+No samples were excluded at this stage.
