@@ -1,0 +1,8 @@
+ALOPECIA AREATA BIOINFORMATICS PROJECT
+---------------------------------------
+Dataset: GSE68801
+Source: NCBI Gene Expression Omnibus
+Number of probes: 54675
+Number of samples: 122
+Platform: GPL570
+Number of metadata records: 122

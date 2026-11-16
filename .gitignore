@@ -1,7 +1,9 @@
 .Rhistory
 .RData
 .Rproj.user/
-data/raw/*
-data/processed/*
-results/figures/*
-results/tables/*
+data/raw/*.rds
+data/raw/*.RDS
+data/raw/*.gz
+data/processed/*.rds
+results/figures/
+results/tables/
